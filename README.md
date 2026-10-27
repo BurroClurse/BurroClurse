@@ -12,7 +12,6 @@ Some of my projects are private. Their showcase repos describe them without the 
 |---|---|
 | [Peregrine](https://github.com/BurroClurse/peregrine-showcase) | iPhone app on the App Store that uses the camera to score laser dry fire training live. Private, showcase only. |
 | [home-vet](https://github.com/BurroClurse/home-vet-showcase) | Health record system for my pets: record intake, lab trends, drug checks and PubMed search. Private, showcase only. |
-| [screenplink](https://github.com/BurroClurse/screenplink) | Laser dry fire game that uses a webcam and a monitor as the target. |
 | [mac-security-audit](https://github.com/BurroClurse/mac-security-audit) | Security audit for my Mac, run on demand with Claude against a known-good baseline. |
 | [klipper-troubleshooting-playbook](https://github.com/BurroClurse/klipper-troubleshooting-playbook) | Troubleshooting playbook for an Ender 3 Pro running Klipper, analyzed with a local AI model. |
 | [advanced-ml-learning-program](https://github.com/BurroClurse/advanced-ml-learning-program) | Study curriculum based on the Coursera Advanced Machine Learning specialization. |
