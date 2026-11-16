@@ -1,6 +1,5 @@
 # Tyler Beattie, RN
 
-Registered nurse with over 12 years of acute care experience, 11 of them in the ED and PACU. I work in AI model evaluation for clinical content and I'm finishing a Master of Health Information Management at Texas State University (expected May 2027).
 
 [LinkedIn](https://www.linkedin.com/in/tyler-beattie-b09702b9) | [peregrinedryfire.com](https://peregrinedryfire.com)
 
